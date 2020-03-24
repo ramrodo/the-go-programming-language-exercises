@@ -7,7 +7,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/ramrodo/the-go-programming-language-exercises/pkg/tempconv"
+	"github.com/ramrodo/the-go-programming-language-exercises/ch02/tempconv"
 )
 
 func convertNumberToTemperatures(number string) {
